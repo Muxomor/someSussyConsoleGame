@@ -67,7 +67,7 @@ namespace Shamaev
                         EnterTrapRoom();
                         break;
                     case "Сундук":
-                        Console.WriteLine("Вы вошли в комнату с сундуком. Я пока не придумал что тут будет так что вы прошли мимо!");
+                        Console.WriteLine("!!Вы вошли в комнату с сундуком. Я пока не придумал что тут будет так что вы прошли мимо!");
                         break;
                     case "Торговец":
                         EnterMerchantRoom();
